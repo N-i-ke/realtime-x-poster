@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# 環境変数ファイル
+.env
+
+# ログファイル
+*.log
+
+# キャッシュとか
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac特有
+.DS_Store
